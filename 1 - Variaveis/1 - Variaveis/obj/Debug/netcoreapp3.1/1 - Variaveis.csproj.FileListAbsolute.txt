@@ -1,0 +1,13 @@
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\1 - Variaveis\1 - Variaveis\bin\Debug\netcoreapp3.1\1 - Variaveis.exe
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\1 - Variaveis\1 - Variaveis\bin\Debug\netcoreapp3.1\1 - Variaveis.deps.json
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\1 - Variaveis\1 - Variaveis\bin\Debug\netcoreapp3.1\1 - Variaveis.runtimeconfig.json
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\1 - Variaveis\1 - Variaveis\bin\Debug\netcoreapp3.1\1 - Variaveis.runtimeconfig.dev.json
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\1 - Variaveis\1 - Variaveis\bin\Debug\netcoreapp3.1\1 - Variaveis.dll
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\1 - Variaveis\1 - Variaveis\bin\Debug\netcoreapp3.1\1 - Variaveis.pdb
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\1 - Variaveis\1 - Variaveis\obj\Debug\netcoreapp3.1\1 - Variaveis.csproj.AssemblyReference.cache
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\1 - Variaveis\1 - Variaveis\obj\Debug\netcoreapp3.1\1 - Variaveis.AssemblyInfoInputs.cache
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\1 - Variaveis\1 - Variaveis\obj\Debug\netcoreapp3.1\1 - Variaveis.AssemblyInfo.cs
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\1 - Variaveis\1 - Variaveis\obj\Debug\netcoreapp3.1\1 - Variaveis.csproj.CoreCompileInputs.cache
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\1 - Variaveis\1 - Variaveis\obj\Debug\netcoreapp3.1\1 - Variaveis.dll
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\1 - Variaveis\1 - Variaveis\obj\Debug\netcoreapp3.1\1 - Variaveis.pdb
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\1 - Variaveis\1 - Variaveis\obj\Debug\netcoreapp3.1\1 - Variaveis.genruntimeconfig.cache
