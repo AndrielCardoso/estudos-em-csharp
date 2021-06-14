@@ -1,0 +1,13 @@
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\2 - Processamento de dados e Casting\Entrada de Dados\Entrada de Dados\obj\Debug\netcoreapp3.1\Entrada de Dados.csproj.AssemblyReference.cache
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\2 - Processamento de dados e Casting\Entrada de Dados\Entrada de Dados\obj\Debug\netcoreapp3.1\Entrada de Dados.AssemblyInfoInputs.cache
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\2 - Processamento de dados e Casting\Entrada de Dados\Entrada de Dados\obj\Debug\netcoreapp3.1\Entrada de Dados.AssemblyInfo.cs
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\2 - Processamento de dados e Casting\Entrada de Dados\Entrada de Dados\obj\Debug\netcoreapp3.1\Entrada de Dados.csproj.CoreCompileInputs.cache
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\2 - Processamento de dados e Casting\Entrada de Dados\Entrada de Dados\bin\Debug\netcoreapp3.1\Entrada de Dados.exe
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\2 - Processamento de dados e Casting\Entrada de Dados\Entrada de Dados\bin\Debug\netcoreapp3.1\Entrada de Dados.deps.json
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\2 - Processamento de dados e Casting\Entrada de Dados\Entrada de Dados\bin\Debug\netcoreapp3.1\Entrada de Dados.runtimeconfig.json
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\2 - Processamento de dados e Casting\Entrada de Dados\Entrada de Dados\bin\Debug\netcoreapp3.1\Entrada de Dados.runtimeconfig.dev.json
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\2 - Processamento de dados e Casting\Entrada de Dados\Entrada de Dados\bin\Debug\netcoreapp3.1\Entrada de Dados.dll
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\2 - Processamento de dados e Casting\Entrada de Dados\Entrada de Dados\bin\Debug\netcoreapp3.1\Entrada de Dados.pdb
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\2 - Processamento de dados e Casting\Entrada de Dados\Entrada de Dados\obj\Debug\netcoreapp3.1\Entrada de Dados.dll
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\2 - Processamento de dados e Casting\Entrada de Dados\Entrada de Dados\obj\Debug\netcoreapp3.1\Entrada de Dados.pdb
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\2 - Processamento de dados e Casting\Entrada de Dados\Entrada de Dados\obj\Debug\netcoreapp3.1\Entrada de Dados.genruntimeconfig.cache
