@@ -1,0 +1,13 @@
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\Funções Matemáticas\Funções Matemáticas\bin\Debug\netcoreapp3.1\Funções Matemáticas.exe
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\Funções Matemáticas\Funções Matemáticas\bin\Debug\netcoreapp3.1\Funções Matemáticas.deps.json
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\Funções Matemáticas\Funções Matemáticas\bin\Debug\netcoreapp3.1\Funções Matemáticas.runtimeconfig.json
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\Funções Matemáticas\Funções Matemáticas\bin\Debug\netcoreapp3.1\Funções Matemáticas.runtimeconfig.dev.json
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\Funções Matemáticas\Funções Matemáticas\bin\Debug\netcoreapp3.1\Funções Matemáticas.dll
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\Funções Matemáticas\Funções Matemáticas\bin\Debug\netcoreapp3.1\Funções Matemáticas.pdb
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\Funções Matemáticas\Funções Matemáticas\obj\Debug\netcoreapp3.1\Funções Matemáticas.csproj.AssemblyReference.cache
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\Funções Matemáticas\Funções Matemáticas\obj\Debug\netcoreapp3.1\Funções Matemáticas.AssemblyInfoInputs.cache
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\Funções Matemáticas\Funções Matemáticas\obj\Debug\netcoreapp3.1\Funções Matemáticas.AssemblyInfo.cs
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\Funções Matemáticas\Funções Matemáticas\obj\Debug\netcoreapp3.1\Funções Matemáticas.csproj.CoreCompileInputs.cache
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\Funções Matemáticas\Funções Matemáticas\obj\Debug\netcoreapp3.1\Funções Matemáticas.dll
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\Funções Matemáticas\Funções Matemáticas\obj\Debug\netcoreapp3.1\Funções Matemáticas.pdb
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\Funções Matemáticas\Funções Matemáticas\obj\Debug\netcoreapp3.1\Funções Matemáticas.genruntimeconfig.cache
