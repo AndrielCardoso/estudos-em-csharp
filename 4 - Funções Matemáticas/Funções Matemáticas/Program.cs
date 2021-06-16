@@ -41,11 +41,9 @@ namespace Funções_Matemáticas
             valor_b = double.Parse(Console.ReadLine());
 
             multiplicacao1 = ehl * 100;
-            Console.WriteLine(multiplicacao1);
             multiplicacao2 = valor_a * 100;
             Console.WriteLine(multiplicacao2);
             conversao = -valor_a;
-            Console.WriteLine(conversao);
             subtracao = multiplicacao1 - multiplicacao2;
             soma1 = conversao + valor_b;
             resultado = subtracao / soma1;
