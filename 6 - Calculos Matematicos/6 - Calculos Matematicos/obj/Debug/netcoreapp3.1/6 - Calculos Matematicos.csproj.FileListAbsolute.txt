@@ -1,0 +1,13 @@
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\6 - Calculos Matematicos\6 - Calculos Matematicos\obj\Debug\netcoreapp3.1\6 - Calculos Matematicos.csproj.AssemblyReference.cache
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\6 - Calculos Matematicos\6 - Calculos Matematicos\obj\Debug\netcoreapp3.1\6 - Calculos Matematicos.AssemblyInfoInputs.cache
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\6 - Calculos Matematicos\6 - Calculos Matematicos\obj\Debug\netcoreapp3.1\6 - Calculos Matematicos.AssemblyInfo.cs
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\6 - Calculos Matematicos\6 - Calculos Matematicos\obj\Debug\netcoreapp3.1\6 - Calculos Matematicos.csproj.CoreCompileInputs.cache
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\6 - Calculos Matematicos\6 - Calculos Matematicos\bin\Debug\netcoreapp3.1\6 - Calculos Matematicos.exe
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\6 - Calculos Matematicos\6 - Calculos Matematicos\bin\Debug\netcoreapp3.1\6 - Calculos Matematicos.deps.json
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\6 - Calculos Matematicos\6 - Calculos Matematicos\bin\Debug\netcoreapp3.1\6 - Calculos Matematicos.runtimeconfig.json
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\6 - Calculos Matematicos\6 - Calculos Matematicos\bin\Debug\netcoreapp3.1\6 - Calculos Matematicos.runtimeconfig.dev.json
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\6 - Calculos Matematicos\6 - Calculos Matematicos\bin\Debug\netcoreapp3.1\6 - Calculos Matematicos.dll
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\6 - Calculos Matematicos\6 - Calculos Matematicos\bin\Debug\netcoreapp3.1\6 - Calculos Matematicos.pdb
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\6 - Calculos Matematicos\6 - Calculos Matematicos\obj\Debug\netcoreapp3.1\6 - Calculos Matematicos.dll
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\6 - Calculos Matematicos\6 - Calculos Matematicos\obj\Debug\netcoreapp3.1\6 - Calculos Matematicos.pdb
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\6 - Calculos Matematicos\6 - Calculos Matematicos\obj\Debug\netcoreapp3.1\6 - Calculos Matematicos.genruntimeconfig.cache
