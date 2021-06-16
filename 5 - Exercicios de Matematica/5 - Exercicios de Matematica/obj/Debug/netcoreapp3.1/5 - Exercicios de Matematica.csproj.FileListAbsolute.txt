@@ -1,0 +1,13 @@
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\5 - Exercicios de Matematica\5 - Exercicios de Matematica\obj\Debug\netcoreapp3.1\5 - Exercicios de Matematica.csproj.AssemblyReference.cache
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\5 - Exercicios de Matematica\5 - Exercicios de Matematica\obj\Debug\netcoreapp3.1\5 - Exercicios de Matematica.AssemblyInfoInputs.cache
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\5 - Exercicios de Matematica\5 - Exercicios de Matematica\obj\Debug\netcoreapp3.1\5 - Exercicios de Matematica.AssemblyInfo.cs
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\5 - Exercicios de Matematica\5 - Exercicios de Matematica\obj\Debug\netcoreapp3.1\5 - Exercicios de Matematica.csproj.CoreCompileInputs.cache
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\5 - Exercicios de Matematica\5 - Exercicios de Matematica\bin\Debug\netcoreapp3.1\5 - Exercicios de Matematica.exe
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\5 - Exercicios de Matematica\5 - Exercicios de Matematica\bin\Debug\netcoreapp3.1\5 - Exercicios de Matematica.deps.json
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\5 - Exercicios de Matematica\5 - Exercicios de Matematica\bin\Debug\netcoreapp3.1\5 - Exercicios de Matematica.runtimeconfig.json
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\5 - Exercicios de Matematica\5 - Exercicios de Matematica\bin\Debug\netcoreapp3.1\5 - Exercicios de Matematica.runtimeconfig.dev.json
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\5 - Exercicios de Matematica\5 - Exercicios de Matematica\bin\Debug\netcoreapp3.1\5 - Exercicios de Matematica.dll
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\5 - Exercicios de Matematica\5 - Exercicios de Matematica\bin\Debug\netcoreapp3.1\5 - Exercicios de Matematica.pdb
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\5 - Exercicios de Matematica\5 - Exercicios de Matematica\obj\Debug\netcoreapp3.1\5 - Exercicios de Matematica.dll
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\5 - Exercicios de Matematica\5 - Exercicios de Matematica\obj\Debug\netcoreapp3.1\5 - Exercicios de Matematica.pdb
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\5 - Exercicios de Matematica\5 - Exercicios de Matematica\obj\Debug\netcoreapp3.1\5 - Exercicios de Matematica.genruntimeconfig.cache
