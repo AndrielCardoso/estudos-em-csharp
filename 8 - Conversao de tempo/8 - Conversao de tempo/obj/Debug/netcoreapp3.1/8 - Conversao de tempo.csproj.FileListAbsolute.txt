@@ -1,0 +1,13 @@
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\8 - Conversao de tempo\8 - Conversao de tempo\bin\Debug\netcoreapp3.1\8 - Conversao de tempo.exe
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\8 - Conversao de tempo\8 - Conversao de tempo\bin\Debug\netcoreapp3.1\8 - Conversao de tempo.deps.json
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\8 - Conversao de tempo\8 - Conversao de tempo\bin\Debug\netcoreapp3.1\8 - Conversao de tempo.runtimeconfig.json
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\8 - Conversao de tempo\8 - Conversao de tempo\bin\Debug\netcoreapp3.1\8 - Conversao de tempo.runtimeconfig.dev.json
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\8 - Conversao de tempo\8 - Conversao de tempo\bin\Debug\netcoreapp3.1\8 - Conversao de tempo.dll
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\8 - Conversao de tempo\8 - Conversao de tempo\bin\Debug\netcoreapp3.1\8 - Conversao de tempo.pdb
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\8 - Conversao de tempo\8 - Conversao de tempo\obj\Debug\netcoreapp3.1\8 - Conversao de tempo.csproj.AssemblyReference.cache
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\8 - Conversao de tempo\8 - Conversao de tempo\obj\Debug\netcoreapp3.1\8 - Conversao de tempo.AssemblyInfoInputs.cache
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\8 - Conversao de tempo\8 - Conversao de tempo\obj\Debug\netcoreapp3.1\8 - Conversao de tempo.AssemblyInfo.cs
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\8 - Conversao de tempo\8 - Conversao de tempo\obj\Debug\netcoreapp3.1\8 - Conversao de tempo.csproj.CoreCompileInputs.cache
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\8 - Conversao de tempo\8 - Conversao de tempo\obj\Debug\netcoreapp3.1\8 - Conversao de tempo.dll
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\8 - Conversao de tempo\8 - Conversao de tempo\obj\Debug\netcoreapp3.1\8 - Conversao de tempo.pdb
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\8 - Conversao de tempo\8 - Conversao de tempo\obj\Debug\netcoreapp3.1\8 - Conversao de tempo.genruntimeconfig.cache
