@@ -27,7 +27,7 @@ namespace _8___Conversao_de_tempo
             ano = N2 / 365;
             resto_ano = N2 % 365;
             mes = resto_ano / 30;
-            dia = resto_ano;
+            dia = resto_ano % 30;
 
             Console.WriteLine("Você já viveu " + ano + " ano(s), " + mes + " mês(es), " + dia + " e dia(s).");
 
