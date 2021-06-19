@@ -1,0 +1,13 @@
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\9 - Cédulas\9 - Cédulas\obj\Debug\netcoreapp3.1\9 - Cédulas.csproj.AssemblyReference.cache
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\9 - Cédulas\9 - Cédulas\obj\Debug\netcoreapp3.1\9 - Cédulas.AssemblyInfoInputs.cache
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\9 - Cédulas\9 - Cédulas\obj\Debug\netcoreapp3.1\9 - Cédulas.AssemblyInfo.cs
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\9 - Cédulas\9 - Cédulas\obj\Debug\netcoreapp3.1\9 - Cédulas.csproj.CoreCompileInputs.cache
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\9 - Cédulas\9 - Cédulas\bin\Debug\netcoreapp3.1\9 - Cédulas.exe
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\9 - Cédulas\9 - Cédulas\bin\Debug\netcoreapp3.1\9 - Cédulas.deps.json
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\9 - Cédulas\9 - Cédulas\bin\Debug\netcoreapp3.1\9 - Cédulas.runtimeconfig.json
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\9 - Cédulas\9 - Cédulas\bin\Debug\netcoreapp3.1\9 - Cédulas.runtimeconfig.dev.json
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\9 - Cédulas\9 - Cédulas\bin\Debug\netcoreapp3.1\9 - Cédulas.dll
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\9 - Cédulas\9 - Cédulas\bin\Debug\netcoreapp3.1\9 - Cédulas.pdb
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\9 - Cédulas\9 - Cédulas\obj\Debug\netcoreapp3.1\9 - Cédulas.dll
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\9 - Cédulas\9 - Cédulas\obj\Debug\netcoreapp3.1\9 - Cédulas.pdb
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\9 - Cédulas\9 - Cédulas\obj\Debug\netcoreapp3.1\9 - Cédulas.genruntimeconfig.cache
