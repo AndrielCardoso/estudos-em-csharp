@@ -1,0 +1,13 @@
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\11 - Menor numero\11 - Menor numero\obj\Debug\netcoreapp3.1\11 - Menor numero.csproj.AssemblyReference.cache
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\11 - Menor numero\11 - Menor numero\obj\Debug\netcoreapp3.1\11 - Menor numero.AssemblyInfoInputs.cache
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\11 - Menor numero\11 - Menor numero\obj\Debug\netcoreapp3.1\11 - Menor numero.AssemblyInfo.cs
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\11 - Menor numero\11 - Menor numero\obj\Debug\netcoreapp3.1\11 - Menor numero.csproj.CoreCompileInputs.cache
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\11 - Menor numero\11 - Menor numero\bin\Debug\netcoreapp3.1\11 - Menor numero.exe
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\11 - Menor numero\11 - Menor numero\bin\Debug\netcoreapp3.1\11 - Menor numero.deps.json
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\11 - Menor numero\11 - Menor numero\bin\Debug\netcoreapp3.1\11 - Menor numero.runtimeconfig.json
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\11 - Menor numero\11 - Menor numero\bin\Debug\netcoreapp3.1\11 - Menor numero.runtimeconfig.dev.json
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\11 - Menor numero\11 - Menor numero\bin\Debug\netcoreapp3.1\11 - Menor numero.dll
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\11 - Menor numero\11 - Menor numero\bin\Debug\netcoreapp3.1\11 - Menor numero.pdb
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\11 - Menor numero\11 - Menor numero\obj\Debug\netcoreapp3.1\11 - Menor numero.dll
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\11 - Menor numero\11 - Menor numero\obj\Debug\netcoreapp3.1\11 - Menor numero.pdb
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\11 - Menor numero\11 - Menor numero\obj\Debug\netcoreapp3.1\11 - Menor numero.genruntimeconfig.cache
