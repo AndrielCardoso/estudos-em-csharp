@@ -1,0 +1,13 @@
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\13 - Switch-case\13 - Switch-case\obj\Debug\netcoreapp3.1\13 - Switch-case.csproj.AssemblyReference.cache
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\13 - Switch-case\13 - Switch-case\obj\Debug\netcoreapp3.1\13 - Switch-case.AssemblyInfoInputs.cache
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\13 - Switch-case\13 - Switch-case\obj\Debug\netcoreapp3.1\13 - Switch-case.AssemblyInfo.cs
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\13 - Switch-case\13 - Switch-case\obj\Debug\netcoreapp3.1\13 - Switch-case.csproj.CoreCompileInputs.cache
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\13 - Switch-case\13 - Switch-case\bin\Debug\netcoreapp3.1\13 - Switch-case.exe
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\13 - Switch-case\13 - Switch-case\bin\Debug\netcoreapp3.1\13 - Switch-case.deps.json
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\13 - Switch-case\13 - Switch-case\bin\Debug\netcoreapp3.1\13 - Switch-case.runtimeconfig.json
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\13 - Switch-case\13 - Switch-case\bin\Debug\netcoreapp3.1\13 - Switch-case.runtimeconfig.dev.json
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\13 - Switch-case\13 - Switch-case\bin\Debug\netcoreapp3.1\13 - Switch-case.dll
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\13 - Switch-case\13 - Switch-case\bin\Debug\netcoreapp3.1\13 - Switch-case.pdb
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\13 - Switch-case\13 - Switch-case\obj\Debug\netcoreapp3.1\13 - Switch-case.dll
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\13 - Switch-case\13 - Switch-case\obj\Debug\netcoreapp3.1\13 - Switch-case.pdb
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\13 - Switch-case\13 - Switch-case\obj\Debug\netcoreapp3.1\13 - Switch-case.genruntimeconfig.cache
