@@ -1,0 +1,13 @@
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\12 - Valor por minuto\12 - Valor por minuto\obj\Debug\netcoreapp3.1\12 - Valor por minuto.csproj.AssemblyReference.cache
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\12 - Valor por minuto\12 - Valor por minuto\obj\Debug\netcoreapp3.1\12 - Valor por minuto.AssemblyInfoInputs.cache
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\12 - Valor por minuto\12 - Valor por minuto\obj\Debug\netcoreapp3.1\12 - Valor por minuto.AssemblyInfo.cs
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\12 - Valor por minuto\12 - Valor por minuto\obj\Debug\netcoreapp3.1\12 - Valor por minuto.csproj.CoreCompileInputs.cache
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\12 - Valor por minuto\12 - Valor por minuto\bin\Debug\netcoreapp3.1\12 - Valor por minuto.exe
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\12 - Valor por minuto\12 - Valor por minuto\bin\Debug\netcoreapp3.1\12 - Valor por minuto.deps.json
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\12 - Valor por minuto\12 - Valor por minuto\bin\Debug\netcoreapp3.1\12 - Valor por minuto.runtimeconfig.json
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\12 - Valor por minuto\12 - Valor por minuto\bin\Debug\netcoreapp3.1\12 - Valor por minuto.runtimeconfig.dev.json
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\12 - Valor por minuto\12 - Valor por minuto\bin\Debug\netcoreapp3.1\12 - Valor por minuto.dll
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\12 - Valor por minuto\12 - Valor por minuto\bin\Debug\netcoreapp3.1\12 - Valor por minuto.pdb
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\12 - Valor por minuto\12 - Valor por minuto\obj\Debug\netcoreapp3.1\12 - Valor por minuto.dll
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\12 - Valor por minuto\12 - Valor por minuto\obj\Debug\netcoreapp3.1\12 - Valor por minuto.pdb
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\12 - Valor por minuto\12 - Valor por minuto\obj\Debug\netcoreapp3.1\12 - Valor por minuto.genruntimeconfig.cache
