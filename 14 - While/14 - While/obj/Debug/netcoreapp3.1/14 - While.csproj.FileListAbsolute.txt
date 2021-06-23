@@ -1,0 +1,13 @@
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\14 - While\14 - While\bin\Debug\netcoreapp3.1\14 - While.exe
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\14 - While\14 - While\bin\Debug\netcoreapp3.1\14 - While.deps.json
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\14 - While\14 - While\bin\Debug\netcoreapp3.1\14 - While.runtimeconfig.json
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\14 - While\14 - While\bin\Debug\netcoreapp3.1\14 - While.runtimeconfig.dev.json
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\14 - While\14 - While\bin\Debug\netcoreapp3.1\14 - While.dll
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\14 - While\14 - While\bin\Debug\netcoreapp3.1\14 - While.pdb
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\14 - While\14 - While\obj\Debug\netcoreapp3.1\14 - While.csproj.AssemblyReference.cache
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\14 - While\14 - While\obj\Debug\netcoreapp3.1\14 - While.AssemblyInfoInputs.cache
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\14 - While\14 - While\obj\Debug\netcoreapp3.1\14 - While.AssemblyInfo.cs
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\14 - While\14 - While\obj\Debug\netcoreapp3.1\14 - While.csproj.CoreCompileInputs.cache
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\14 - While\14 - While\obj\Debug\netcoreapp3.1\14 - While.dll
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\14 - While\14 - While\obj\Debug\netcoreapp3.1\14 - While.pdb
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\14 - While\14 - While\obj\Debug\netcoreapp3.1\14 - While.genruntimeconfig.cache
