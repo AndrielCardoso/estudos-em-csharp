@@ -1,0 +1,13 @@
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\17 - For\17 - For\bin\Debug\netcoreapp3.1\17 - For.exe
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\17 - For\17 - For\bin\Debug\netcoreapp3.1\17 - For.deps.json
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\17 - For\17 - For\bin\Debug\netcoreapp3.1\17 - For.runtimeconfig.json
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\17 - For\17 - For\bin\Debug\netcoreapp3.1\17 - For.runtimeconfig.dev.json
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\17 - For\17 - For\bin\Debug\netcoreapp3.1\17 - For.dll
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\17 - For\17 - For\bin\Debug\netcoreapp3.1\17 - For.pdb
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\17 - For\17 - For\obj\Debug\netcoreapp3.1\17 - For.csproj.AssemblyReference.cache
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\17 - For\17 - For\obj\Debug\netcoreapp3.1\17 - For.AssemblyInfoInputs.cache
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\17 - For\17 - For\obj\Debug\netcoreapp3.1\17 - For.AssemblyInfo.cs
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\17 - For\17 - For\obj\Debug\netcoreapp3.1\17 - For.csproj.CoreCompileInputs.cache
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\17 - For\17 - For\obj\Debug\netcoreapp3.1\17 - For.dll
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\17 - For\17 - For\obj\Debug\netcoreapp3.1\17 - For.pdb
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\17 - For\17 - For\obj\Debug\netcoreapp3.1\17 - For.genruntimeconfig.cache

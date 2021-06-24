@@ -1,0 +1,13 @@
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\16 - Media de idades\16 - Media de idades\bin\Debug\netcoreapp3.1\16 - Media de idades.exe
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\16 - Media de idades\16 - Media de idades\bin\Debug\netcoreapp3.1\16 - Media de idades.deps.json
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\16 - Media de idades\16 - Media de idades\bin\Debug\netcoreapp3.1\16 - Media de idades.runtimeconfig.json
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\16 - Media de idades\16 - Media de idades\bin\Debug\netcoreapp3.1\16 - Media de idades.runtimeconfig.dev.json
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\16 - Media de idades\16 - Media de idades\bin\Debug\netcoreapp3.1\16 - Media de idades.dll
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\16 - Media de idades\16 - Media de idades\bin\Debug\netcoreapp3.1\16 - Media de idades.pdb
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\16 - Media de idades\16 - Media de idades\obj\Debug\netcoreapp3.1\16 - Media de idades.csproj.AssemblyReference.cache
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\16 - Media de idades\16 - Media de idades\obj\Debug\netcoreapp3.1\16 - Media de idades.AssemblyInfoInputs.cache
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\16 - Media de idades\16 - Media de idades\obj\Debug\netcoreapp3.1\16 - Media de idades.AssemblyInfo.cs
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\16 - Media de idades\16 - Media de idades\obj\Debug\netcoreapp3.1\16 - Media de idades.csproj.CoreCompileInputs.cache
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\16 - Media de idades\16 - Media de idades\obj\Debug\netcoreapp3.1\16 - Media de idades.dll
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\16 - Media de idades\16 - Media de idades\obj\Debug\netcoreapp3.1\16 - Media de idades.pdb
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\16 - Media de idades\16 - Media de idades\obj\Debug\netcoreapp3.1\16 - Media de idades.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\15- Crescente e Decrescente\15- Crescente e Decrescente\obj\Debug\netcoreapp3.1\15- Crescente e Decrescente.csproj.AssemblyReference.cache
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\15- Crescente e Decrescente\15- Crescente e Decrescente\obj\Debug\netcoreapp3.1\15- Crescente e Decrescente.AssemblyInfoInputs.cache
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\15- Crescente e Decrescente\15- Crescente e Decrescente\obj\Debug\netcoreapp3.1\15- Crescente e Decrescente.AssemblyInfo.cs
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\15- Crescente e Decrescente\15- Crescente e Decrescente\obj\Debug\netcoreapp3.1\15- Crescente e Decrescente.csproj.CoreCompileInputs.cache
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\15- Crescente e Decrescente\15- Crescente e Decrescente\bin\Debug\netcoreapp3.1\15- Crescente e Decrescente.exe
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\15- Crescente e Decrescente\15- Crescente e Decrescente\bin\Debug\netcoreapp3.1\15- Crescente e Decrescente.deps.json
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\15- Crescente e Decrescente\15- Crescente e Decrescente\bin\Debug\netcoreapp3.1\15- Crescente e Decrescente.runtimeconfig.json
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\15- Crescente e Decrescente\15- Crescente e Decrescente\bin\Debug\netcoreapp3.1\15- Crescente e Decrescente.runtimeconfig.dev.json
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\15- Crescente e Decrescente\15- Crescente e Decrescente\bin\Debug\netcoreapp3.1\15- Crescente e Decrescente.dll
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\15- Crescente e Decrescente\15- Crescente e Decrescente\bin\Debug\netcoreapp3.1\15- Crescente e Decrescente.pdb
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\15- Crescente e Decrescente\15- Crescente e Decrescente\obj\Debug\netcoreapp3.1\15- Crescente e Decrescente.dll
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\15- Crescente e Decrescente\15- Crescente e Decrescente\obj\Debug\netcoreapp3.1\15- Crescente e Decrescente.pdb
+C:\Users\andri\OneDrive\Área de Trabalho\C# studies\15- Crescente e Decrescente\15- Crescente e Decrescente\obj\Debug\netcoreapp3.1\15- Crescente e Decrescente.genruntimeconfig.cache
